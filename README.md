@@ -11,7 +11,7 @@ Bancos de dados relacionais escolhidos
 
 •	[MYSQL WorkBench  - Download](https://dev.mysql.com/downloads/workbench/)
 
-•	Video Instalação
+•	[Video Instalação](https://youtu.be/ljrAyYU84IA)
 
 # Banco 2
 
@@ -19,7 +19,7 @@ Bancos de dados relacionais escolhidos
 
 •	[PostGre – Download](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads) 
 
-•	Video Instalação
+•	[Video Instalação](https://www.youtube.com/watch?v=Frd2qwsQ1Mw)
 
 # Banco 3
 
@@ -27,7 +27,7 @@ Bancos de dados relacionais escolhidos
 
 •	[SQL Server – Download](https://go.microsoft.com/fwlink/p/?linkid=2216019&clcid=0x416&culture=pt-br&country=br)
 
-•	Video Instalação
+•	[Video Instalação](https://www.youtube.com/watch?v=DkvtCU3elT4)
 
 # Estudo de Caso
 Roteiro a ser seguido:
@@ -50,7 +50,13 @@ Prateleira – código do produto, quantidade do produto, preço do produto
 Pagamento – código identificação, tipo de pagamento
 
 
-# Tabelas e seus relacionamentos
+# Tabelas e seus relacionamentos - 
+
+MYSQL - [Video](https://www.youtube.com/watch?v=7sLKVBw6Qjc)
+
+PostGreSQL - [Video](https://youtu.be/C1dKUfh4WVk)
+
+SQL Server - [Video](https://youtu.be/0Sv1-eBsQOM)
 
 # Produto
 
@@ -84,6 +90,13 @@ Pagamento – código identificação, tipo de pagamento
 Desenvolver as instruções sql para criar as tabelas e os relacionamentos
 
 # Inserir na tabela Produto
+
+MySQL - [Video](https://youtu.be/ddskHidY7Jo)
+
+PostGreSQL - [Video](https://youtu.be/0BEozUCoYjQ)
+
+SQL Server - [Video](https://youtu.be/YlbQ6jDnoho)
+
 Registro 1
 
 1.	Identificação única = 1,
@@ -114,10 +127,23 @@ Registro 4
 
 # Inserir na tabela Pagamento
 
+MySQL - [Video](https://youtu.be/1vRuJf3ETpA)
+
+PostGreSQL - [Video](https://youtu.be/rb_aLYj9deY)
+
+SQL Server - [Video](https://youtu.be/O-x5dENx4y0)
+
 1.	Código Identificação = 1
 2.	Tipo de Pagamento = Dinheiro
 
 # Inserir na tabela Prateleira
+
+MySQL - [Video](https://youtu.be/MKzAio3xCeY)
+
+PostGreSQL - [Video](https://youtu.be/2mmbKzxJB7c)
+
+SQL Server - [Video](https://youtu.be/3ivmhy4Qe80)
+
 Registro 1
 
 1.	Identificação única produto (código da tabela de produto) = 1
@@ -143,6 +169,12 @@ Registro 4
 3.	Preço do produto = 4,00
 
 # Inserir na tabela Caderno
+
+MySQL - [Video](https://youtu.be/Uj0xdMuwB6Q)
+
+PostGreSQL - [Video](https://youtu.be/1C0yadCGxhI)
+
+SQL Server - [Video](https://youtu.be/E0oTVqRLIj8)
 
 Registro 1
 
@@ -200,38 +232,56 @@ Registro 6
 
 # Instrução de seleção de dados
 
-a.	Desenvolva a consulta sql que retorne todos os produtos - Video
+MySQL - [Video](https://youtu.be/xWVc5ok-p7g)
 
-b.	Desenvolva a consulta sql que busque o produto pelo nome - Video
+PostGreSQL - [Video](https://youtu.be/wTjEK4-27oc)
 
-c.	Desenvolva a consulta sql que retorne todos os tipos de pagamento - Video
+SQL Server - [Video](https://youtu.be/Yuwc-uk0tpw)
 
-d.	Desenvolva a consulta sql que retorne todos os itens da prateleira - Video
+a.	Desenvolva a consulta sql que retorne todos os produtos 
 
-e.	Desenvolva a consulta sql que retorne o produto pelo preço - Video 
+b.	Desenvolva a consulta sql que busque o produto pelo nome 
 
-f.	Desenvolva a consulta sql que retorne todos os itens vendido do caderno - Video 
+c.	Desenvolva a consulta sql que retorne todos os tipos de pagamento
 
-g.	Desenvolva a consulta sql que retorne os itens vendido do caderno por uma data - Video 
+d.	Desenvolva a consulta sql que retorne todos os itens da prateleira
 
-h.	Desenvolva a consulta sql que retorne um registro da tabela caderno onde todos os dados relacionados das outras tabelas também retornem na consulta - Video
+e.	Desenvolva a consulta sql que retorne o produto pelo preço
 
-i.	Desenvolva a consulta sql que retorne os itens vendido no caderno entre um período escolhido na tabela caderno - Video
+f.	Desenvolva a consulta sql que retorne todos os itens vendido do caderno
 
-j.	Desenvolva a consulta que retorne à quantidade de registro de uma tabela qualquer - Video
+g.	Desenvolva a consulta sql que retorne os itens vendido do caderno por uma data
+
+h.	Desenvolva a consulta sql que retorne um registro da tabela caderno onde todos os dados relacionados das outras tabelas também retornem na consulta 
+
+i.	Desenvolva a consulta sql que retorne os itens vendido no caderno entre um período escolhido na tabela caderno 
+
+j.	Desenvolva a consulta que retorne à quantidade de registro de uma tabela qualquer
 
 # Instrução de atualização de dados
+
+MySQL - [Video](https://youtu.be/MwsGJ41scXc)
+
+PostGreSQL - [Video](https://youtu.be/IsB4-wLTUFs)
+
+SQL Server - [Video](https://youtu.be/opPTdEHJUE8)
 
 a.	Desenvolva a instrução de atualização sql em que mude o nome de um dos produtos da tabela produto - Video
 
 b.	Desenvolva a instrução de atualização sql em que mude o preço de um produto da tabela prateleira - Video 
 
 c.	Desenvolva a instrução de atualização sql em que mude a descrição do tipo de pagamento da tabela pagamento
-Instrução de exclusão de dados - Video
+Instrução de exclusão de dados
 
 # Instrução de exclusão de dados
 
-a.	Desenvolva a instrução sql que exclua um produto da tabela produto - Video
+MySQL - [Video](https://youtu.be/ooUvhhsn1BQ)
+
+PostGreSQL - [Video](https://youtu.be/Nhj6SFYsgWI)
+
+SQL Server - [Video](https://youtu.be/koxsdgtZcw0)
+
+a.	Desenvolva a instrução sql que exclua um produto da tabela produto
 
 
 
